@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Quiver Sounds
+## Notes: Plays Kira voice emotes on pet events
+## Author: SabineWren, 2022
+## Version: 0.1
+
+Main.lua
