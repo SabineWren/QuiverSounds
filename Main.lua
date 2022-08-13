@@ -6,24 +6,24 @@ local path = {
 
 	},
 	Bye={
-		"Interface\\AddOns\\Quiver\\Sounds\\Bye\\Kira_Bye_Quiet_01.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Bye\\Kira_Bye_Quiet_03.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Bye\\Kira_Bye_Quiet_05.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Bye\\Kira_Bye_Quiet_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Bye\\Kira_Bye_Quiet_03.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Bye\\Kira_Bye_Quiet_05.ogg",
 	},
 	Greatest={
 
 	},
 	Hi={
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_01.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_02.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_03.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_06.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_07.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_08.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_09.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Hi_Quiet_10.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Taunt_35_Quiet_01.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Hi\\Kira_Taunt_SpawnGreeting_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_02.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_03.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_06.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_07.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_08.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_09.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Hi_Quiet_10.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Taunt_35_Quiet_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Hi\\Kira_Taunt_SpawnGreeting_01.ogg",
 	},
 	LowHp={
 
@@ -32,35 +32,35 @@ local path = {
 
 	},
 	Outranged={
-		"Interface\\AddOns\\Quiver\\Sounds\\Outranged\\Kira_Incoming_Quiet_02.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Outranged\\Kira_Lets_Go_Quiet_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Outranged\\Kira_Incoming_Quiet_02.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Outranged\\Kira_Lets_Go_Quiet_01.ogg",
 	},
 	PetFeed={
-		"Interface\\AddOns\\Quiver\\Sounds\\PetFeed\\Kira_Taunt_40_Quiet_01.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\PetFeed\\Kira_Taunt_47_Quiet_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\PetFeed\\Kira_Taunt_40_Quiet_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\PetFeed\\Kira_Taunt_47_Quiet_01.ogg",
 	},
 	PetHungry={
-		"Interface\\AddOns\\Quiver\\Sounds\\PetHungry\\Kira_Yeah_Quiet_02.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\PetHungry\\Kira_Yeah_Quiet_03.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\PetHungry\\Kira_Taunt_Sarcastic_03.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\PetHungry\\Kira_Yeah_Quiet_02.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\PetHungry\\Kira_Yeah_Quiet_03.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\PetHungry\\Kira_Taunt_Sarcastic_03.ogg",
 	},
 	Respawn={
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_01.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_02.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_04.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_05.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_06.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_07.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_08.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_09.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_10.ogg",
-		"Interface\\AddOns\\Quiver\\Sounds\\Respawn\\Kira_Respawn_Quiet_11.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_01.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_02.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_04.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_05.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_06.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_07.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_08.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_09.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_10.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\Respawn\\Kira_Respawn_Quiet_11.ogg",
 	},
 	Revived={
 
 	},
 	ScareBeast={
-		"Interface\\AddOns\\Quiver\\Sounds\\ScareBeast\\Kira_Enemy_Weak_Medium_03.ogg",
+		"Interface\\AddOns\\QuiverSounds\\Sounds\\ScareBeast\\Kira_Enemy_Weak_Medium_03.ogg",
 	},
 }
 
@@ -172,8 +172,12 @@ local isEventHandled = false
 -- UNIT_PET Fires twice on summon/dismiss. Can check combat log in between.
 local unitPetEventCount = 0
 local handleEvent = function()
+	-- Init State
+	if event == "PLAYER_LOGIN" then
+		pet.CheckExists()
+		pet.CheckAlive()
 	-- Dismiss Pet
-	if event == "CHAT_MSG_COMBAT_MISC_INFO" then
+	elseif event == "CHAT_MSG_COMBAT_MISC_INFO" then
 		DEFAULT_CHAT_FRAME:AddMessage(event)
 		isEventHandled = true
 		local _, _ = pet.CheckExists()
@@ -215,6 +219,7 @@ end
 
 -- ************ Initialization ************
 local EVENTS = {
+	"PLAYER_LOGIN",-- Init
 	"CHAT_MSG_COMBAT_MISC_INFO",-- Dismiss Pet
 	"CHAT_MSG_SPELL_SELF_BUFF",-- Call Pet
 	"CHAT_MSG_SPELL_PERIODIC_SELF_BUFFS",-- Feed Pet
@@ -222,12 +227,7 @@ local EVENTS = {
 	"UNIT_HAPPINESS",-- Happiness decay, including Pet Death
 	"UNIT_FOCUS",-- Revive Pet
 }
-local frame CreateFrame("Frame", nil, UIParent)
+local frame = CreateFrame("Frame", nil, UIParent)
 frame:Hide()
-frame:SetScript("ADDON_LOADED", function()
-	-- Init state -- TODO might not be needed
-	pet.CheckExists()
-	pet.CheckAlive()
-	frame:SetScript("OnEvent", handleEvent)
-	for _k, e in EVENTS do frame:RegisterEvent(e) end
-end)
+for _k, e in EVENTS do frame:RegisterEvent(e) end
+frame:SetScript("OnEvent", handleEvent)
